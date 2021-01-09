@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cop4656_assign4</string>
+    <string name="type_your_question_here">Type your question here</string>
+    <string name="add_question">Add Question</string>
+</resources>
